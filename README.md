@@ -1,4 +1,5 @@
 # Frontend Mentor - Age calculator app
+[Check the website live( use Desktop mode on Mobile)](https://inzamamshaikh567.github.io/AgeAppCalculator/)
 
 ![Design preview for the Age calculator app coding challenge](./design/desktop-preview.jpg)
 
